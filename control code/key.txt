@@ -1,0 +1,40 @@
+[corresponding keys to actions]
+
+[esc] start/pause
+
+[w] forword
+[s] backword
+[a] turn left
+[d] turn right
+[q] cross left
+[e] cross right
+
+[z] Tripod mode
+[x] Wave mode
+[c] Pipple mode
+[0] Swing mode
+
+[1] speed up
+[2] speed down
+[3] open front foot
+[4] close front foot
+[5] open middle foot
+[6] close middle foot
+[7] open back foot
+[8] close back foot
+
+[t] body pitch up
+[g] body pitch down
+[f] body roll up
+[h] body roll down
+[v] body up
+[b] body down
+[n] foot open
+[m] foot close
+
+[u] left claw attack
+[i] right claw attack
+[o] both claw attack
+[p] tail attack
+[j] laugh
+[else] shake tail
